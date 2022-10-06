@@ -5,6 +5,7 @@ All the essential documents including dataset, outputs and video demonstration :
 
 Dataset : https://drive.google.com/drive/folders/12ASnpdaMOME1d4kfd2siyz5YNpajF745?usp=sharing
 
-Video Proposal: https://drive.google.com/file/d/1_SBRaYaie0T8xh2XEu2Dle80f2gz7JIx/view?usp=sharing
+Video Proposal: https://drive.google.com/file/d/1_SBRaYaie0T8xh2XEu2Dle80f2gz7JIx/view?usp=sharing (Google Drive Link)
+                https://youtu.be/V7YTIjVPSwA (Youtube Link)
 
 Output: https://drive.google.com/drive/folders/173ua1E2pDtu7t_eHPrf9adSVFo75FXjp?usp=sharing
