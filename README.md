@@ -1,5 +1,5 @@
 # SBSPS-Challenge-9567-Develop-An-Accurate-Model-For-Cricket-Pose-Estimation
-Develop An Accurate Model For Cricket Pose Estimation
+## Develop An Accurate Model For Cricket Pose Estimation.
 
 All the essential documents including dataset, outputs and video demonstration: https://drive.google.com/drive/folders/1XECdTinAxcxuU0mq2YUtmRFGS_CdOA5K?usp=sharing
 
